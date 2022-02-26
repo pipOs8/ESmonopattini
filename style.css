@@ -1,0 +1,90 @@
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+  text-align: center;
+  width: 1000px;
+  margin: auto;
+  font-family: 'Rubik', sans-serif;
+}
+
+.base{
+  border: 1px solid #00000099 ;
+  background-color: #00000099;
+  padding: 70px;
+  margin-top: 40px;
+  border-radius: 2%;
+}
+
+img{
+  width: 180px;
+  height: 85px;
+}
+
+.testo-logo{
+  color: #00dd00;
+  font-size: 30px;
+
+}
+
+#pren{
+  width: 70px;
+}
+
+#Luc{
+  width: 115px;
+}
+
+.prenota{
+  border: 1px solid #00dd00;
+  background-color: #00dd00;
+  padding: 8px;
+}
+
+.text-white{
+  color: white;
+  text-align: left;
+  font-size: 20px;
+}
+
+.arrow{
+  font-size: 20px;
+}
+
+.text{
+  font-size: 12px;
+}
+
+.A{
+  border: 1px solid #ffb42b;
+  padding: 5px;
+  background-color: #ffb42b;
+  width: 35%;
+  border-radius: 5%;
+}
+
+div.A{
+  color: #ffb42b;
+}
+
+.B{
+  border: 1px solid #00c300;
+  padding: 5px;
+  background-color: #00c300;
+  width: 70%;
+  border-radius: 5%;
+}
+div.B{
+  color: #00c300;
+}
+
+.C{
+  border: 1px solid #fd3636;
+  padding: 5px;
+  background-color: #fd3636;
+  width: 20%;
+  border-radius: 5%;
+}
+
+div.C{
+  color: #fd3636;
+}
